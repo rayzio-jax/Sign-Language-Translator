@@ -9,16 +9,6 @@ Tuna wicara dan tuna rungu merupakan sebuah kondisi seseorang yang memiliki masa
 _This is a Final Capstone Project for Independent Study from Dicoding Batch 3 from Kampus Merdeka events for colleges._
 _Speech impairment and hearing impairment is a condition where someone has a health problems on it's sense of communication (mouth and ear). Those problems cause the necessity for deaf and speech impaired people to communicate with a language that is specialized for them, namely sign language, but how do other people that never been learn sign language to understand them? So this project was made by intention to solve that problem._
 
-# Tech Stack
-- HTML
-- CSS
-  - Tailwind CSS
-- Javascript
-- React
-  - Swiper
-  - React-speech-recognition
-- Tensorflow JS
-
 ## Development
 Install dependencies : <br>
 `npm install`
